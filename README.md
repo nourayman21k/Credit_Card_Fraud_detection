@@ -1,2 +1,6 @@
 # Credit_Card_Fraud_detection
 Credit Card Fraud Detection: ML pipeline + Flask REST API. Trains & compares 4 models (Logistic Regression, Random Forest, Neural Network, XGBoost) with SMOTE/ROS/RUS balancing on 284K transactions. Deploys best model via Flask with single/batch prediction endpoints. Stack: Python, Flask, Scikit-learn, XGBoost, Imbalanced-learn, Joblib, Pandas, NumPy, Matplotlib, Seaborn. Achieves 85%+ recall with real-time API.
+
+
+https://github.com/user-attachments/assets/d573c3f9-2474-404a-97da-30c3d3603bf5
+
